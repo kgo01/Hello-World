@@ -1,7 +1,4 @@
 language: Python
 rvm:
   -3.7
-os:
-  -Ubuntu
-
 
